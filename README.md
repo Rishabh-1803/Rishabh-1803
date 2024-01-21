@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rishabh-1803
 - 👀 I’m interested in GUI Devlopment
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on any platform
+- 🌱 I’m currently learning python(ML and Data science)
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me, can reach me on github or E-mail. 
 
 <!---
