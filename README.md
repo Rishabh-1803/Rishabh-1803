@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishabh-1803
-- 👀 I’m interested in GUI Devlopment
-- 🌱 I’m currently learning python(ML and Data science)
+- 👀 I’m interested in Problem Solving
+- 🌱 I’m currently exploring Embedded Systems
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me, can reach me on github or E-mail. 
 
