@@ -1,49 +1,177 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Rishabh Shah and I'm a Electronics and Communication Engineering Student, from India</h2>
+<h1 align="center">Hi 👋, I'm Rishabh Shah</h1>
 
-###
+<h3 align="center">
+Embedded Systems Engineer • Electronics & Communication Student • Linux Enthusiast
+</h3>
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/Rishabh-1803/Rishabh-1803/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/Rishabh-1803/Rishabh-1803/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+Passionate about Embedded Systems, Embedded Linux, IoT, and Low-Level Software Development.
+</p>
 
-###
+---
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 🚀 About Me
 
-###
+- 🎓 Final-year Electronics & Communication Engineering Student
+- 💻 Currently learning **Advanced Embedded Linux Development**
+- 🌱 Exploring **Linux Kernel Development & Device Drivers**
+- ⚡ Interested in **Embedded Systems, ARM Architecture, FPGA & IoT**
+- 🔭 Working on Embedded Linux projects using **C, C++, Python & ESP32**
+- 🎯 Looking for opportunities in **Embedded Systems, Semiconductor and Linux Engineering**
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+---
 
-###
+## 🛠️ Tech Stack
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### Languages
 
-###
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
+</p>
 
-<br clear="both">
+### Embedded & Hardware
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/Rishabh-1803/Rishabh-1803/snake-output/snake.svg" alt="Snake animation" />
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,arduino,raspberrypi" />
+</p>
 
-###
+**Technologies**
+
+- Embedded Linux
+- Linux System Programming
+- Device Drivers
+- ESP32
+- ARM Cortex
+- Raspberry Pi
+- IoT
+- Git
+- Bash
+- MATLAB
+
+---
+
+## 📚 Currently Learning
+
+- Embedded Linux
+- Linux Kernel Development
+- Device Driver Development
+- FPGA Design
+- ARM Architecture
+- Buildroot
+- Yocto
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 Smart Agriculture System
+> ESP32-based smart irrigation system using sensors and real-time monitoring.
+
+---
+
+### 🤖 Unbiased AI Detection
+> Machine Learning application for detecting bias in datasets and AI models.
+
+---
+
+### 🌦️ Weather Monitoring System
+> IoT project using ESP32 for environmental monitoring and cloud visualization.
+
+---
+
+### 🐧 Embedded Linux Assignments
+> Linux System Programming, Process Management, Threads, Socket Programming and Buildroot.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rishabh-1803&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-1803&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Rishabh-1803&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh-1803&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 Achievements
+
+- 🎓 Electronics & Communication Engineering Student
+- 🐧 Advanced Embedded Linux Development Specialization
+- 💻 Multiple Embedded Systems Projects
+- 🌱 IoT Application Development
+- 🤖 AI & Machine Learning Projects
+- 🔧 Linux System Programming
+
+---
+
+## 📜 Certifications
+
+- Advanced Embedded Linux Development
+- Linux System Programming
+- Cisco Networking (CCNA)
+- MATLAB
+- Python Programming
+- IoT
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/rishabh-shah-/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:rishabh180306@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=Rishabh-1803&color=blue&style=for-the-badge)
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Building reliable systems from silicon to software."*
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Rishabh-1803/Rishabh-1803/output/snake.svg" />
+
+</p>
