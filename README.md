@@ -29,36 +29,32 @@ Passionate about Embedded Systems, Embedded Linux, IoT, and Low-Level Software D
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
 </p>
 
-### Embedded & Hardware
+### 🔧 Embedded & Hardware
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux,git,arduino,raspberrypi" />
 </p>
 
-**Technologies**
-
-- Embedded Linux
-- Linux System Programming
-- Device Drivers
-- ESP32
-- ARM Cortex
-- Raspberry Pi
-- IoT
-- Git
-- Bash
-- MATLAB
-
----
+| Category | Technologies |
+|-----------|--------------|
+| Programming | C, C++, Python, Bash |
+| Embedded Platforms | ESP32, STM32, Raspberry Pi, ARM Cortex |
+| Embedded OS | Embedded Linux, Buildroot, Yocto |
+| Development Tools | STM32CubeIDE, Keil µVision, Arduino IDE, MATLAB |
+| Communication Protocols | UART, SPI, I²C, GPIO, MQTT |
+| Version Control | Git, GitHub |
+| Operating Systems | Linux, Windows |
 
 ## 📚 Currently Learning
 
-- Embedded Linux
+- Advanced Embedded Linux Development
 - Linux Kernel Development
-- Device Driver Development
-- FPGA Design
-- ARM Architecture
+- Linux Device Drivers
 - Buildroot
-- Yocto
+- Yocto Project
+- ARM Cortex-M Programming
+- STM32 Development
+- FPGA Design
 
 ---
 
@@ -88,9 +84,9 @@ Passionate about Embedded Systems, Embedded Linux, IoT, and Low-Level Software D
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rishabh-1803&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Rishabh-1803&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-1803&layout=compact&theme=tokyonight&hide_border=true"/>
+<imgsrc="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh-1803&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -172,6 +168,6 @@ Passionate about Embedded Systems, Embedded Linux, IoT, and Low-Level Software D
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Rishabh-1803/Rishabh-1803/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/Rishabh-1803/Rishabh-1803/snake-output/snake.svg"/>
 
 </p>
