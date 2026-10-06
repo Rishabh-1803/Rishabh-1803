@@ -166,16 +166,6 @@ src="https://raw.githubusercontent.com/Rishabh-1803/Rishabh-1803/languages-outpu
 
 ---
 
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh-1803&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
 # 🏆 Certifications
 
 - Advanced Embedded Linux Development Specialization
@@ -227,6 +217,8 @@ src="https://raw.githubusercontent.com/Rishabh-1803/Rishabh-1803/languages-outpu
 </p>
 
 ---
+
+# 🐍 Contribution Snake
 
 <p align="center">
 
